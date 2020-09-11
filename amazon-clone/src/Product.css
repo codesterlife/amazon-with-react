@@ -28,6 +28,7 @@
 }
 .product__price {
   margin-top: 5px;
+  color: #b10800;
 }
 .product__info {
   width: 100%;
