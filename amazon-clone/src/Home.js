@@ -17,7 +17,7 @@ function Home() {
             title="The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses"
             price={499}
             rating={5}
-            image="https://images-eu.ssl-images-amazon.com/images/I/81HK1DyQEQL._AC_UL160_.jpg"
+            image="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._SX325_BO1,204,203,200_.jpg"
           />
         </div>
         <div className="home__row">
