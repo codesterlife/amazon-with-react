@@ -5,7 +5,6 @@ import CurrencyFormat from "react-currency-format";
 
 function Product({ id, title, price, image, rating }) {
   const [{ basket }, dispatch] = useStateValue();
-  console.log("This is the basket >>>", basket);
 
   const addToBasket = () => {
     //dispatch the item into the data layer
